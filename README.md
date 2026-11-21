@@ -14,5 +14,5 @@ This is the AI engine for Codex Delta One Hyper. It encompasses all necessary mo
 2. Install dependencies using `pip install -r requirements.txt`.
 3. Follow the instructions in each component's documentation.
 
-## License
-Versions that include the root `LICENSE` are source-available under Joseph Lual’s Community and Commercial License. The no-cost community grant and paid commercial route are described there. Earlier versions retain any license already granted to them. This custom license is not OSI-approved and does not grant hosted model or API access.
+## Operator and license
+The project is operated by Joseph Mangar Lual, an individual/sole trader under [ABN 92 845 954 362](https://abr.business.gov.au/ABN/View?id=92845954362). The project portfolio business identity is Andoria Pacific Home Developers. Versions that include the root `LICENSE` use the custom Community and Commercial License there; earlier versions retain any license already granted. It is source-available, not OSI-approved open source, and does not grant hosted model or API access.
