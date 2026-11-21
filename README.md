@@ -15,4 +15,4 @@ This is the AI engine for Codex Delta One Hyper. It encompasses all necessary mo
 3. Follow the instructions in each component's documentation.
 
 ## License
-Codex Delta One Hyper is licensed under the MIT License.
+Versions that include the root `LICENSE` are source-available under Joseph Lual’s Community and Commercial License. The no-cost community grant and paid commercial route are described there. Earlier versions retain any license already granted to them. This custom license is not OSI-approved and does not grant hosted model or API access.
